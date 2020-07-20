@@ -1,5 +1,6 @@
 # 9009
-A Chrome theme inspired by the GMK 9009 keyset.
+
+A Chrome theme inspired by the GMK 9009 keyset. The new tab background is inspired by Dixie Mech's 9009 Circle Deskmat.
 
 For Chrome Installation:
 
