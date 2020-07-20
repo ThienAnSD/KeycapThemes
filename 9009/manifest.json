@@ -1,0 +1,69 @@
+{
+  "name": "9009",
+  "version": "1.0",
+  "description": "A Chrome theme inspired by the GMK 9009 keyset. Background is inspired by Dixie Mech's Deskmat",
+  "manifest_version": 2,
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [
+        172,
+        166,
+        147
+      ],
+      "toolbar": [
+        216,
+        210,
+        195
+      ],
+      "ntp_background": [
+        216,
+        210,
+        195
+      ],
+      "tab_text": [
+        118,
+        142,
+        114
+      ],
+      "tab_background_text": [
+        118,
+        142,
+        114
+      ],
+      "bookmark_text": [
+        50,
+        50,
+        50
+      ],
+      "ntp_text": [
+        50,
+        50,
+        50
+      ],
+      "omnibox_text": [
+        172,
+        166,
+        147
+      ],
+      "omnibox_background": [
+        118,
+        142,
+        114
+      ]
+    },
+    "tints": {
+      "buttons": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
