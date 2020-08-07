@@ -1,0 +1,26 @@
+{
+  "name": "Bento",
+  "version": "1.0",
+  "description": "A Chrome theme inspired by the GMK Bento keyset designed by Biip",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame": [67, 96, 115],
+      "toolbar": [242, 233, 233],
+      "ntp_background": [242, 233, 233],
+      "tab_text": [67, 96, 115],
+      "tab_background_text": [242, 121, 131],
+      "bookmark_text": [67, 96, 115],
+      "ntp_text": [67, 96, 115],
+      "omnibox_text": [242, 233, 233],
+      "omnibox_background": [242, 121, 131]
+    },
+    "tints": {
+      "buttons": [-1, -1, -1]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
