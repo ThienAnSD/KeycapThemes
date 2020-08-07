@@ -18,4 +18,4 @@ Examples:
 
 - Bento
 
-![Image of Olivia](examples/ExampleBento.png)
+![Image of Bento](examples/ExampleBento.png)
