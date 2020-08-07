@@ -16,6 +16,3 @@ Examples:
 
 ![Image of Olivia](examples/ExampleOlivia.png)
 
-- Bento
-
-![Image of Bento](examples/ExampleBento.png)
