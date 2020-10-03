@@ -1,0 +1,26 @@
+{
+  "name": "Yuru",
+  "version": "1.0",
+  "description": "A Chrome theme inspired by the GMK Yuru keyset designed by Agilr",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame": [113, 47, 62],
+      "toolbar": [225, 219, 209],
+      "ntp_background": [225, 219, 209],
+      "tab_text": [113, 47, 62],
+      "tab_background_text": [225, 219, 209],
+      "bookmark_text": [113, 47, 62],
+      "ntp_text": [113, 47, 62],
+      "omnibox_text": [242, 233, 233],
+      "omnibox_background": [136, 212, 204]
+    },
+    "tints": {
+      "buttons": [-1, -1, -1]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
